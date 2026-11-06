@@ -1,4 +1,6 @@
-## A 3D scrollable website made with WEBGi and GSAP
+## AuraAlloy — A 3D scrollable jewelry website made with WEBGi and GSAP
+
+Official domain: [aura-alloy.net](https://aura-alloy.net)
 
 *Design by Anderson Mancini*
 

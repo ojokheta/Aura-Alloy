@@ -1,9 +1,10 @@
 {
 	"name": "webgi-scroll-3d",
 	"version": "1.0.0",
-	"description": "Scrollable 3D website | Design by Anderson Mancini",
+	"description": "AuraAlloy | Scrollable 3D jewelry website | Design by Anderson Mancini",
 	"main": "index.html",
 	"scripts": {
+		"dev": "parcel index.html --port 3000",
 		"start": "parcel index.html",
 		"build": "parcel build index.html --no-minify --public-url ./",
 		"deploy": "vercel --prod"
